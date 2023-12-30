@@ -2,7 +2,7 @@
 Adventure Works Cycles, is a large, multinational manufacturing company which manufactures and sells metal and composite bicycles to North American, European and Asian commercial markets. This project conduct a thorough market analysis using **Power BI**.
 
 ## Contents 
-- [Overview](#Overview)
+- Overview
 - Objectives  
 - Data Sources 
 - Tools 
@@ -13,10 +13,10 @@ Adventure Works Cycles, is a large, multinational manufacturing company which ma
 - Exploratory Data Analysis
 - Dashboard
 - Insights and Recommendations
-- [Power BI files](#powerBIfiles)
+- Power BI files
 
 
-## Overview <a name="Overview"></a>
+## Overview 
 Adventure Works Cycles,  is a large, multinational manufacturing company. 
 The company manufactures and sells metal and composite bicycles to North American, European and Asian commercial markets. While its base operation is in Bothell, Washington with 290 employees, several regional sales teams are located throughout their market base.
 
@@ -30,13 +30,13 @@ Coming off a successful fiscal year, Adventure Works Cycles is looking to broade
 
 ## Data Sources
 The analysis is based on data extracted from seven Excel files, encompassing 
-- FactInternetSales (/data_set/FactInternetSales.xlsx) 
-- DimCustomer (/data_set/Dimcustomer.xlsx)
-- DimDate (/data_set/DimDate.xlsx)
-- DimProduct (/data_set/DimProduct.xlsx)
-- DimProductCategory (/data_set/DimProductCategory.xlsx)
-- DimProductSubcategory (/data_set/DimProductSubCategory.xlsx)
-- Dimsalesterritory (/data_set/DimSalesterritory.xlsx)
+- [FactInternetSales](/data_set/FactInternetSales.xlsx) 
+- [DimCustomer](/data_set/Dimcustomer.xlsx)
+- [DimDate](/data_set/DimDate.xlsx)
+- [DimProduct](/data_set/DimProduct.xlsx)
+- [DimProductCategory](/data_set/DimProductCategory.xlsx)
+- [DimProductSubcategory](/data_set/DimProductSubCategory.xlsx)
+- [Dimsalesterritory](/data_set/DimSalesterritory.xlsx)
   
 The data spans from December 2010 to January 2014.  
  The dataset utilized for this analysis was provided by the [ExcelR Solutions](https://www.excelr.com/) as part of an internship project
@@ -212,6 +212,6 @@ Leverage the consistent pattern of peak sales in the fourth quarter across the y
 - Focus on High-Performing Models:
 	Concentrate resources, marketing efforts, and inventory management on the models that have demonstrated both high sales and high profitability. This targeted approach can maximize returns and ensure efficient resource allocation
 
-## Power BI files <a name="powerBIfiles"></a>
-Uploaded here PowerBi/ADV_WORK_POWERBI.pbix
+## Power BI files
+Uploaded [here](PowerBi/ADV_WORK_POWERBI.pbix)
 
