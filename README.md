@@ -2,8 +2,8 @@
 Adventure Works Cycles, is a large, multinational manufacturing company which manufactures and sells metal and composite bicycles to North American, European and Asian commercial markets. This project conduct a thorough market analysis using **Power BI**.
 
 ## Contents 
-- Overview
-- Objectives 
+- [Overview](#Overview)
+- Objectives  
 - Data Sources 
 - Tools 
 - Data Preparation 
@@ -13,10 +13,10 @@ Adventure Works Cycles, is a large, multinational manufacturing company which ma
 - Exploratory Data Analysis
 - Dashboard
 - Insights and Recommendations
-- Power BI files
+- [Power BI files](#powerBIfiles)
 
 
-## Overview
+## Overview <a name="Overview"></a>
 Adventure Works Cycles,  is a large, multinational manufacturing company. 
 The company manufactures and sells metal and composite bicycles to North American, European and Asian commercial markets. While its base operation is in Bothell, Washington with 290 employees, several regional sales teams are located throughout their market base.
 
@@ -212,6 +212,6 @@ Leverage the consistent pattern of peak sales in the fourth quarter across the y
 - Focus on High-Performing Models:
 	Concentrate resources, marketing efforts, and inventory management on the models that have demonstrated both high sales and high profitability. This targeted approach can maximize returns and ensure efficient resource allocation
 
-## Power BI files
+## Power BI files <a name="powerBIfiles"></a>
 Uploaded here PowerBi/ADV_WORK_POWERBI.pbix
 
