@@ -183,7 +183,8 @@ The highest revenue-generating product is the Mountain-200 Black, contributing a
 
 ![Home](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles/assets/146762387/72e5318b-2e1e-41a6-9ce6-f0cbe5eb6a54)  
 
-![Sales_analytics](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles/assets/146762387/bc20a088-3ec7-4823-ba2c-4c06651136a3)  
+![Sales_analytics](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles/assets/146762387/754cfea5-53da-4e94-8fbc-23d37bc66159)
+  
 
 ![Customer_analytics](https://github.com/snehaukprabha/Sales_Analytics-Adventure_works_cycles/assets/146762387/668ce802-4493-4368-968c-2430efeafe49)  
 
